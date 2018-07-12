@@ -1,0 +1,7 @@
+{
+    
+      "compilerOptions":{
+      "outDir": "dist", //aqui esta criando a pasta que vai ter os arquivos padrao do compilador
+      "noEmitOnError": false
+    }
+}
